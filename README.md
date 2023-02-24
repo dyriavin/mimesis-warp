@@ -10,7 +10,10 @@ Well-suited for those who prefer a light and minimalist design for their coding 
 ![Mimesis-warp](images/hero.png)
 
 ### Installation
-TODO 
-
+Download `mimesis.yaml` from the latest tag
+In your terminal: 
+``` sh 
+mkdir -p /Users/$USER/.warp/themes/ && cp -r mimesis.yaml /Users/$USER/.warp/themes/
+```
 **Enjoy!**
 
