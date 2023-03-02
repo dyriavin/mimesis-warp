@@ -1,10 +1,10 @@
 accent: "#45A1FF"
 background: "#ffffff"
-foreground: "#202020"
+foreground: "#293338"
 details: "lighter"
 terminal_colors:
   normal:
-    black: "#202020"
+    black: "#293338"
     red: "#D70022"
     green: "#006504"
     yellow: "#D7B600"
@@ -13,7 +13,7 @@ terminal_colors:
     cyan: "#008EA4"
     white: "#D7D7DB"
   bright:
-    black: "#293338"
+    black: "#404B53"
     red: "#FF0039"
     green: "#12BC00"
     yellow: "#FFE900"
